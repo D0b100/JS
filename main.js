@@ -1,2 +1,2 @@
-name = "Daria"
-surname = "Wleklik"
+let name = "Daria"
+let surname = "Wleklik"
